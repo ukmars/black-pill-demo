@@ -1,0 +1,17 @@
+# STM32CubeIDE
+.settings
+*.launch
+/Debug/
+/Release/
+langage.settings.xml
+
+# CLion
+/.idea/
+cmake-build*/
+
+# general wastage in case other editors are used
+*.bak
+*~
+
+# Doxygen generated docs
+/html/
